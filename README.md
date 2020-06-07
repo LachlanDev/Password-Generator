@@ -7,7 +7,7 @@ A Python based secure 8-25 character password generator used to secure your onli
 This program requires the latest version of Python (3.8) in order to run correctly, install Python3.8 depending on your distribution.
 ##### Linux / Debian 
 ```BASH
-apt-get install python3.8
+apt-get install python3
 ```
 ##### Windows
 You can download Python3.8 for Windows [here](https://www.python.org/downloads/windows/)
