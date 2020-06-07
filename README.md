@@ -15,7 +15,7 @@ You can download Python3.8 for Windows [here](https://www.python.org/downloads/w
 You can download Python3.8 for Mac OS X [here](https://www.python.org/downloads/mac-osx/)
 
 # Installation 
-Clone or download the reposotory.
+Clone or download the repository.
 
 # Usage
 ```BASH
