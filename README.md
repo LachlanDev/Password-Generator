@@ -10,9 +10,9 @@ This program requires the latest version of Python (3.8) in order to run correct
 apt-get install python3.8
 ```
 ##### Windows
-You can download Python3.8 for Windows[here](https://www.python.org/downloads/windows/)
+You can download Python3.8 for Windows [here](https://www.python.org/downloads/windows/)
 ##### Mac OS X
-You can download Python3.8 for Mac OS X[here](https://www.python.org/downloads/mac-osx/)
+You can download Python3.8 for Mac OS X [here](https://www.python.org/downloads/mac-osx/)
 
 # Installation 
 Clone or download the reposotory.
