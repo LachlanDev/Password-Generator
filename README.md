@@ -19,7 +19,7 @@ Clone or download the repository.
 
 # Usage
 ```BASH
-python3.8 passwordgen.py
+python3 passwordgen.py
 ```
 
 # About
