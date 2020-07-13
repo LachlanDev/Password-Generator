@@ -1,4 +1,3 @@
-#Lachlan Lawrence - Outcome 2 Python Password Generator
 import sys
 import os
 
