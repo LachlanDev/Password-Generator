@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/T0QF23u.png/">
 
 # Python Password Generator
-A Python based secure 8-25 character password generator used to secure your online accounts or computer systems.
+A Python based secure 1-10000000 character password generator used to secure your online accounts or computer systems.
 
 # Requirements 
 This program requires the latest version of Python (3.8) in order to run correctly, install Python3.8 depending on your distribution.
@@ -26,5 +26,7 @@ python3 passwordgen.py
 This program was made by PapaSnags you can find me here 
 </br>
 [Twitter](https://twitter.com/PapaSnags)
+[Twitter - rond](https://twitter.com/rondDev)
 </br>
 [Website](https://papa-snags.com)
+[Website - rond](https://rond.cc)
