@@ -23,12 +23,12 @@ python3 passwordgen.py
 ```
 
 # About
-This program was made by PapaSnags + Rond you can find me here 
+This program was made by LachlanDev + Rond you can find me here 
 </br>
-[Twitter - PapaSnags](https://twitter.com/PapaSnags)
+[Twitter - LachlanDev](https://twitter.com/LachlanDev)
 </br>
 [Twitter - rond](https://twitter.com/rondDev)
 </br>
-[Website - PapaSnags](https://papa-snags.com)
+[Website - LachlanDev](https://lachlan-dev.com)
 </br>
 [Website - rond](https://rond.cc)
